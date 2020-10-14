@@ -1,3 +1,4 @@
+/* resets */
 body,
 ul {
     font-family: 'Open Sans', sans-serif;
@@ -18,10 +19,6 @@ body{
     font-weight: bold;
     color: #000;
     padding-top: 10px;
-}
-/* .list-item:first-child {
-    font-weight: bold;
-    color: black; */
 }
 .list-item:nth-child(n+2){
 color: #69696a;
